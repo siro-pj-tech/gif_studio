@@ -22,7 +22,7 @@
 
 ## 🌐 公開ページ（デモ）
 こちらのリンクから直接お使いいただけます。
-[GIFstudio V1.1 を使ってみる](あなたの公開URL)
+[GIFstudio V1.1 を使ってみる](https://siro-pj-tech.github.io/gif_studio/)
 
 ## 📝 技術スタック
 - HTML5 / CSS3
